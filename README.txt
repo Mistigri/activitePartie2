@@ -1,0 +1,1 @@
+Bonjour, ceci est un exercice réalisé il y a longtemps avec l'utilisation de bootsrap. Bootstrap est un kit CSS créé par les développeurs de Twitter. La logique n'est pas évidente à intégrer au début mais se révèle très utile par la suite. Ce framework permet de construire une page web responsive très rapidement. Je vous conseille vivement de vous y intéresser.
